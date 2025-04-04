@@ -59,12 +59,6 @@ La app se abrirá en `http://localhost:5173` (o el puerto de Vite)
 
 ---
 
-## 🌐 Despliegue (opcional)
-
-Puedes subir el frontend a **Vercel**, **Netlify** o **GitHub Pages**, y el backend a **Render**, **Railway**, etc.
-
----
-
 ## 📦 Tecnologías usadas
 
 - React + TypeScript
@@ -99,4 +93,4 @@ npm test
 
 ## ✍️ Autor
 
-Proyecto realizado por [Tu Nombre] – [Tu GitHub o LinkedIn]
+Proyecto realizado por Sergio Várez – [https://github.com/svarezm/](https://github.com/svarezm/)
